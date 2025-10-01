@@ -35,7 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   web_server:
-    path: packages/web_server/
+    path: packages/web_server
+  shelf_web_server:
+    path: packages/shelf_web_server
 
 dev_dependencies:
   flutter_test:
